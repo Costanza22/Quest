@@ -1,0 +1,133 @@
+// creating an array and passing the number, questions, options, and answers
+let questions = [
+    {
+      numb: 1,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Quantos pontos com a idade de 80 anos?",
+      answer: "4 pontos",
+      options: [
+        "3 pontos",
+        "2 pontos",
+        "1 ponto",
+        "4 pontos",
+      ],
+    },
+    {
+      numb: 2,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Quantos pontos entre a idade de 70-79 anos?",
+      answer: "3 pontos",
+      options: [
+        "6 pontos",
+        "7 pontos",
+        "10 pontos",
+        "3 pontos",
+      ],
+    },
+    {
+      numb: 3,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Quantos pontos entre a idade de 60-69 anos?",
+      answer: "2 pontos",
+      options: [
+        "4 pontos",
+        "0 pontos",
+        "2 pontos",
+        "3 pontos",
+      ],
+    },
+    {
+      numb: 4,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Quantos pontos com doença coronária?",
+      answer: "2 pontos",
+      options: [
+        "4 pontos",
+        "9 pontos",
+        "0 pontos",
+        "2 pontos",
+      ],
+    },
+    {
+      numb: 5,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Quantos pontos com insufiência cardiaca?",
+      answer: "2 pontos",
+      options: [
+        "4 pontos",
+        "8 pontos",
+        "0 pontos",
+        "2 pontos",
+      ],
+    },
+    {
+      numb: 6,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Quantos pontos com DPOC?",
+      answer: "2 pontos",
+      options: ["2 pontos", "0 pontos", "3 pontos", "4 pontos"],
+    },
+    {
+      numb: 7,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Quantos pontos com Creatinina?",
+      answer: "2 pontos",
+      options: ["2 pontos","0 pontos", "12 anos", "6 pontos"],
+    },
+
+    {
+      numb: 7,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Quantos pontos com Tagabismo atual ou prévio?",
+      answer: "1 ponto",
+      options: ["1 ponto","0 pontos", "5 pontos", "4 pontos"],
+    },
+    {
+      numb: 7,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Quantos pontos com Diabetes com Insulinoterapia?",
+      answer: "1 ponto",
+      options: ["1 ponto","0 pontos", "7 pontos", "3 pontos"],
+    },
+    {
+      numb: 7,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Quantos pontos com Uso Crônico de BetaBloqueador?",
+      answer: "1 ponto",
+      options: ["1 ponto","0 pontos", "16 pontos", "4 pontos"],
+    },
+    {
+      numb: 7,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Quantos pontos com Revascularização miocárdica prévia(cirúrgia ou angioplastia?",
+      answer: "2 pontos",
+      options: ["3 pontos","0 pontos", "2 pontos", "4 pontos"],
+    },
+
+    
+
+  
+  ];
+  

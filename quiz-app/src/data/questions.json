@@ -1,0 +1,99 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quantos pontos com a idade de 80 anos?",
+      "correct_answer": "4 pontos",
+      "incorrect_answers": ["3", "2", "1"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quantos pontos entre a idade de 70-79 anos?",
+      "correct_answer": "3 pontos",
+      "incorrect_answers": [
+        "6",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quantos pontos entre a idade de 60-69 anos?",
+      "correct_answer": "2 pontos",
+      "incorrect_answers": ["0", "3", "4"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quantos pontos com doença coronária?",
+      "correct_answer": " 2 pontos",
+      "incorrect_answers": ["0", "9", "4"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quantos pontos com insufiência cardiaca?",
+      "correct_answer": "2 pontos",
+      "incorrect_answers": ["0", "8", "4"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quantos pontos com DPOC?",
+      "correct_answer": "2 pontos",
+      "incorrect_answers": ["0", "3", "4"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quantos pontos com Creatinina?",
+      "correct_answer": "2 pontos",
+      "incorrect_answers": ["0", "12", "6"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quantos pontos com Tagabismo atual ou prévio?",
+      "correct_answer": "1 ponto",
+      "incorrect_answers": ["0", "5", "4"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quantos pontos com Diabetes com Insulinoterapia?",
+      "correct_answer": "1 ponto",
+      "incorrect_answers": ["0", "3", "7"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quantos pontos com Uso Crônico de BetaBloqueador?",
+      "correct_answer": "1 ponto",
+      "incorrect_answers": ["0", "16", "4"]
+    },
+    
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quantos pontos com Revascularização miocárdica prévia(cirúrgia ou angioplastia?",
+      "correct_answer": "2 pontos",
+      "incorrect_answers": ["0", "3", "4"]
+    }
+    
+  ]
+}
